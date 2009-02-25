@@ -24,7 +24,7 @@ under the License.
   <parent>
     <groupId>org.apache.directory.project</groupId>
     <artifactId>project</artifactId>
-    <version>14</version>
+    <version>15</version>
   </parent>
 
   <groupId>org.apache.directory.skins</groupId>
@@ -36,13 +36,13 @@ under the License.
 
   <properties>
     <projectName>ApacheDS-Shared</projectName>
-    <distributionManagement.site.url>scpexe://vm094.oxylos.org/var/www/html/projects/skins/</distributionManagement.site.url>
+    <distMgmtSiteUrl>scpexe://vm094.oxylos.org/var/www/html/projects/skins/</distMgmtSiteUrl>
   </properties>
   
   <distributionManagement>
     <site>
       <id>apache.directory.shared</id>
-      <url>${distributionManagement.site.url}</url>
+      <url>${distMgmtSiteUrl}</url>
     </site>
   </distributionManagement>
 
