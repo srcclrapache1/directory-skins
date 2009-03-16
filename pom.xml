@@ -21,6 +21,7 @@ under the License.
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
+  <inceptionYear>2009</inceptionYear>
   <parent>
     <groupId>org.apache.directory.project</groupId>
     <artifactId>project</artifactId>
@@ -28,11 +29,11 @@ under the License.
   </parent>
 
   <groupId>org.apache.directory.skins</groupId>
-  <artifactId>skins</artifactId>
+  <artifactId>directory-parent-skin</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <name>Skins</name>
+  <name>Directory Skins</name>
   <packaging>pom</packaging>
-  <description>Skins used by maven site generation for the directory projects</description>
+  <description>Apache Directory Skins used by maven site generation for the directory projects.</description>
 
   <properties>
     <projectName>ApacheDS-Shared</projectName>

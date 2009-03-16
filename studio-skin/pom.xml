@@ -24,13 +24,13 @@ under the License.
 
   <parent>
     <groupId>org.apache.directory.skins</groupId>
-    <artifactId>skins</artifactId>
+    <artifactId>directory-parent-skin</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>studio-skin</artifactId>
-  <name>Studio Skin</name>
-  <description>Studio Skin</description>
+  <artifactId>directory-studio-skin</artifactId>
+  <name>Directory Studio Skin</name>
+  <description>Apache Directory Skin used by the Studio project.</description>
 
 </project>
 

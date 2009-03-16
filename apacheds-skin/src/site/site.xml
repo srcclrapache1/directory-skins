@@ -27,7 +27,7 @@ under the License.
   </bannerLeft>
   <skin>
     <groupId>org.apache.directory.skins</groupId>
-    <artifactId>apacheds-skin</artifactId>
+    <artifactId>directory-skin</artifactId>
     <version>${project.version}</version>
   </skin>
   <body>

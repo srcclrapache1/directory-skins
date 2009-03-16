@@ -27,7 +27,7 @@ under the License.
   </bannerLeft>
   <skin>
     <groupId>org.apache.directory.skins</groupId>
-    <artifactId>triplesec-skin</artifactId>
+    <artifactId>directory-triplesec-skin</artifactId>
     <version>${project.version}</version>
   </skin>
   <body>

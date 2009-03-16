@@ -24,13 +24,13 @@ under the License.
 
   <parent>
     <groupId>org.apache.directory.skins</groupId>
-    <artifactId>skins</artifactId>
+    <artifactId>directory-parent-skin</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>triplesec-skin</artifactId>
-  <name>TripleSec Skin</name>
-  <description>Apache Directory TripleSec Skin</description>
+  <artifactId>directory-triplesec-skin</artifactId>
+  <name>Directory TripleSec Skin</name>
+  <description>Apache Directory Skin used by the TripleSec project</description>
 
 </project>
 

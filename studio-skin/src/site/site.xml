@@ -27,7 +27,7 @@ under the License.
   </bannerLeft>
   <skin>
     <groupId>org.apache.directory.skins</groupId>
-    <artifactId>studio-skin</artifactId>
+    <artifactId>directory-studio-skin</artifactId>
     <version>${project.version}</version>
   </skin>
   <body>
