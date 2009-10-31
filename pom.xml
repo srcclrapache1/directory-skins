@@ -37,7 +37,7 @@ under the License.
 
   <properties>
     <projectName>ApacheDS-Shared</projectName>
-    <distMgmtSiteUrl>scpexe://vm094.oxylos.org/var/www/html/projects/skins/</distMgmtSiteUrl>
+    <distMgmtSiteUrl>scpexe://people.apache.org/www/directory.apache.org/skins/gen-docs/${version}/</distMgmtSiteUrl>
   </properties>
   
   <distributionManagement>
