@@ -1,0 +1,21 @@
+h1, h2, h3, h4, h5, h6 
+{
+	color: #2c7a95;
+}
+
+#header 
+{
+	background-image: url('../images/header-blue_20091029.png');
+}
+
+.blogDate 
+{
+	color: #2c7a95;
+	background: url('../images/news-blue.png') no-repeat;
+}
+
+a.blogHeading 
+{
+	color: #2c7a95;
+	background: url('../images/post-blue.png') no-repeat;
+}
