@@ -30,7 +30,7 @@ under the License.
 
   <groupId>org.apache.directory.skins</groupId>
   <artifactId>directory-parent-skin</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.2-SNAPSHOT</version>
   <name>Directory Skins</name>
   <packaging>pom</packaging>
   <description>Apache Directory Skins used by maven site generation for the directory projects.</description>
