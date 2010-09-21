@@ -36,13 +36,13 @@ under the License.
   <description>Apache Directory Skins used by maven site generation for the directory projects.</description>
 
   <properties>
-    <projectName>ApacheDS-Shared</projectName>
+    <projectName>Apache Directory Skins</projectName>
     <distMgmtSiteUrl>scpexe://people.apache.org/www/directory.apache.org/skins/gen-docs/${version}/</distMgmtSiteUrl>
   </properties>
   
   <distributionManagement>
     <site>
-      <id>apache.directory.shared</id>
+      <id>apache.directory.skins</id>
       <url>${distMgmtSiteUrl}</url>
     </site>
   </distributionManagement>

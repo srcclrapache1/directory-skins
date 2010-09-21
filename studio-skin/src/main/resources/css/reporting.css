@@ -17,8 +17,45 @@
  * under the License.
  */
 
-xmp,pre,plaintext {
-    overflow-x: auto;
-    font-family: '-moz-fixed';
-    white-space: pre;
+pre {
+    font-family: monospace;
+    background-color: #F0F0F0;
+    border: 1px dashed #1A6C0B;
+    padding: 5px 10px;
 }
+
+table {
+    border-collapse: collapse;
+    margin: 5px;
+}
+
+table.bodyTable th {
+    background-color: #F0F0F0;
+    border-color: #CCC;
+    border-style: solid;
+    border-width: 1px;
+    padding: 3px 4px;
+    text-align: center;
+}
+
+table.bodyTable td {
+    border-color: #CCC;
+    border-style: solid;
+    border-width: 1px;
+    padding: 3px 4px;
+}
+
+#navigation li ul {
+    margin-left: 0px;
+}
+#navigation li {
+    line-height: 1.0em;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-left: 10px;
+    margin-top: 0.5em;
+}
+#navigation a {
+    /*font-size: 80%;*/
+}
+
