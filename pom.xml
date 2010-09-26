@@ -25,7 +25,7 @@ under the License.
   <parent>
     <groupId>org.apache.directory.project</groupId>
     <artifactId>project</artifactId>
-    <version>17</version>
+    <version>18-SNAPSHOT</version>
   </parent>
 
   <groupId>org.apache.directory.skins</groupId>
@@ -54,6 +54,7 @@ under the License.
 
   <modules>
     <module>apacheds-skin</module>
+    <module>api-skin</module>
     <module>studio-skin</module>
     <module>triplesec-skin</module>
   </modules>
