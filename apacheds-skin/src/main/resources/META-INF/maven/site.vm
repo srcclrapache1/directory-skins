@@ -446,17 +446,6 @@
   #end
 #end
 ##
-##
-<!--
-  Macro to fix a missing closing </div> in the rat report plugin ...
--->
-#macro ( ratreport $report )
-  #if ( $report.toString().contains("Release Audit Tool" ) )
-    </div>
-  #end
-#end
-##
-##
 <html xmlns="http://www.w3.org/1999/xhtml"#if ( $locale ) xml:lang="$locale.language" lang="$locale.language"#end>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=${outputEncoding}" />
@@ -514,9 +503,6 @@
         <div id="rightColumn">
           $bodyContent
         </div>
-        
-        #ratreport( $bodyContent )
-        
         <div id="endContent">
         </div>
       </div>
