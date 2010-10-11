@@ -39,7 +39,7 @@ under the License.
     <projectName>Apache Directory Skins</projectName>
     <distMgmtSiteUrl>scpexe://people.apache.org/www/directory.apache.org/skins/gen-docs/${version}/</distMgmtSiteUrl>
   </properties>
-  
+
   <distributionManagement>
     <site>
       <id>apache.directory</id>
