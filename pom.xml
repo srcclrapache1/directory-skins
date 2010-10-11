@@ -30,7 +30,7 @@ under the License.
 
   <groupId>org.apache.directory.skins</groupId>
   <artifactId>directory-parent-skin</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.2</version>
   <name>Directory Skins</name>
   <packaging>pom</packaging>
   <description>Apache Directory Skins used by maven site generation for the directory projects.</description>
@@ -60,9 +60,9 @@ under the License.
   </modules>
 
   <scm>
-    <connection>scm:svn:http://svn.apache.org/repos/asf/directory/skins/trunk</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/directory/skins/trunk</developerConnection>
-    <url>http://svn.apache.org/viewvc/directory/skins/trunk</url>
+    <connection>scm:svn:http://svn.apache.org/repos/asf/directory/skins/tags/1.0.2</connection>
+    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/directory/skins/tags/1.0.2</developerConnection>
+    <url>http://svn.apache.org/viewvc/directory/skins/tags/1.0.2</url>
   </scm>
 
   <build>
