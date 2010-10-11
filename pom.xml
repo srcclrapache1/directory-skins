@@ -42,7 +42,7 @@ under the License.
   
   <distributionManagement>
     <site>
-      <id>apache.directory.skins</id>
+      <id>apache.directory</id>
       <url>${distMgmtSiteUrl}</url>
     </site>
   </distributionManagement>
