@@ -32,5 +32,16 @@ under the License.
   <name>Directory TripleSec Skin</name>
   <description>Apache Directory Skin used by the TripleSec project</description>
 
+  <build>
+    <resources>
+      <resource>
+        <directory>../common-resources/</directory>
+      </resource>
+      <resource>
+        <directory>src/main/resources/</directory>
+      </resource>
+    </resources>
+  </build>
+
 </project>
 
