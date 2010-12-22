@@ -132,7 +132,7 @@ h6
 
 #content 
 {
-	background: url('../images/content-backgound_20091029.png') repeat-y;
+	background: url('../images/content-background.png') repeat-y;
 }
 
 #endContent 
@@ -293,7 +293,7 @@ a.blogHeading
 	padding-left: 203px;
 	height: 40px;
 	text-align: center;
-	background: url('../images/footer_20091029.png') no-repeat;
+	background: url('../images/footer.png') no-repeat;
 }
 
 .nobr sup img 
