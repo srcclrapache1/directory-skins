@@ -32,5 +32,16 @@ under the License.
   <name>Directory Studio Skin</name>
   <description>Apache Directory Skin used by the Studio project.</description>
 
+  <build>
+    <resources>
+      <resource>
+        <directory>../common-resources/</directory>
+      </resource>
+      <resource>
+        <directory>src/main/resources/</directory>
+      </resource>
+    </resources>
+  </build>
+
 </project>
 

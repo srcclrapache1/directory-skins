@@ -17,10 +17,24 @@
  * under the License.
  */
 
-#banner, #footer, #leftcol, #breadcrumbs, .docs #toc, .docs .courtesylinks, #leftColumn, #navColumn {
-	display: none !important;
+h1, h2, h3, h4, h5, h6 
+{
+	color: #2c7a95;
 }
-#bodyColumn, body.docs div.docs {
-	margin: 0 !important;
-	border: none !important
+
+#header 
+{
+	background-image: url('../images/header-blue.png');
+}
+
+.blogDate 
+{
+	color: #2c7a95;
+	background: url('../images/news-blue.png') no-repeat;
+}
+
+a.blogHeading 
+{
+	color: #2c7a95;
+	background: url('../images/post-blue.png') no-repeat;
 }
